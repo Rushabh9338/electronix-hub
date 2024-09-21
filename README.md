@@ -1,1 +1,3 @@
-# electronix-hub
+# ElectronixHub
+
+This project is an internal web application designed to support the Sales Department by centralizing key information and tools. It features various pages that allow sales teams to monitor real-time sales performance, track progress, and access detailed analytical data. The application helps streamline the sales process by providing insights on customer trends, sales targets, and overall team performance, all in an intuitive and user-friendly interface. This tool enables the Sales Department to make informed decisions and improve efficiency through a comprehensive view of sales data.
