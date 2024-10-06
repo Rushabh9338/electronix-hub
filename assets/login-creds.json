@@ -1,0 +1,9 @@
+{
+  "users": [
+    {
+      "email": "admin@electronixhub.com",
+      "password": "Admin@123",
+      "role": "Admin"
+    }
+  ]
+}
